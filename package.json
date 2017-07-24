@@ -1,0 +1,19 @@
+{
+  "name": "rxy",
+  "version": "0.0.15",
+  "description": "Resource Proxy",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colohr/rxy.git"
+  },
+  "keywords": [],
+  "author": "colohr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colohr/rxy/issues"
+  },
+  "homepage": "https://github.com/colohr/rxy#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
