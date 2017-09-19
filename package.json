@@ -1,6 +1,6 @@
 {
   "name": "rxy",
-  "version": "0.0.15",
+  "version": "0.0.16",
   "description": "Resource Proxy",
   "main": "./index.js",
   "repository": {
@@ -14,6 +14,7 @@
     "url": "https://github.com/colohr/rxy/issues"
   },
   "homepage": "https://github.com/colohr/rxy#readme",
-  "dependencies": {},
-  "devDependencies": {}
+  "dependencies": {
+    "fxy":"^0.1.67"
+  }
 }
