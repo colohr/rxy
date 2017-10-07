@@ -1,6 +1,6 @@
 {
   "name": "rxy",
-  "version": "0.0.16",
+  "version": "0.0.161",
   "description": "Resource Proxy",
   "main": "./index.js",
   "repository": {

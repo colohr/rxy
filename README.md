@@ -1,21 +1,10 @@
-RXY
+rxy
 =============
+Pronunciation /räksē/ or roxy
 
-Install `rxy` 
+--
+Note: `rxy` is not finished & should not be used for your projects. 
 -------------
 ```
-  npm i rxy
-```
-
-
-RXY
--------------
-```js
-const rxy = require('rxy')
-
-
-
-
-//unique to rxy
-RXY = ``
+  npm uninstall rxy
 ```
